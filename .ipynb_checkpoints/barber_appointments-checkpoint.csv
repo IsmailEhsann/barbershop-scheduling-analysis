@@ -1,0 +1,238 @@
+date,day_of_week,time_block,service_type,duration_min,wait_time_min,booking_type
+2026-08-04,Tuesday,Evening (4-7),Haircut,38,9,Walk-in
+2026-08-04,Tuesday,Evening (4-7),Kids Cut,25,8,Walk-in
+2026-08-04,Tuesday,Afternoon (12-4),Beard Trim,18,7,Appointment
+2026-08-04,Tuesday,Evening (4-7),Haircut + Beard,53,9,Walk-in
+2026-08-04,Tuesday,Afternoon (12-4),Beard Trim,17,8,Appointment
+2026-08-04,Tuesday,Evening (4-7),Haircut + Beard,44,5,Appointment
+2026-08-04,Tuesday,Morning (9-12),Haircut,29,1,Appointment
+2026-08-05,Wednesday,Evening (4-7),Beard Trim,14,11,Walk-in
+2026-08-05,Wednesday,Afternoon (12-4),Shave,19,3,Appointment
+2026-08-05,Wednesday,Afternoon (12-4),Kids Cut,25,3,Appointment
+2026-08-05,Wednesday,Morning (9-12),Haircut,30,3,Walk-in
+2026-08-05,Wednesday,Morning (9-12),Haircut + Beard,46,0,Appointment
+2026-08-05,Wednesday,Afternoon (12-4),Haircut + Beard,38,3,Walk-in
+2026-08-05,Wednesday,Evening (4-7),Kids Cut,20,8,Walk-in
+2026-08-05,Wednesday,Evening (4-7),Haircut + Beard,58,6,Walk-in
+2026-08-06,Thursday,Evening (4-7),Haircut,34,6,Appointment
+2026-08-06,Thursday,Afternoon (12-4),Haircut,28,11,Walk-in
+2026-08-06,Thursday,Evening (4-7),Beard Trim,16,10,Walk-in
+2026-08-06,Thursday,Morning (9-12),Beard Trim,12,3,Appointment
+2026-08-06,Thursday,Evening (4-7),Haircut,30,8,Walk-in
+2026-08-06,Thursday,Evening (4-7),Haircut,31,5,Walk-in
+2026-08-06,Thursday,Morning (9-12),Beard Trim,13,3,Walk-in
+2026-08-06,Thursday,Evening (4-7),Kids Cut,22,2,Walk-in
+2026-08-06,Thursday,Evening (4-7),Kids Cut,23,3,Walk-in
+2026-08-07,Friday,Morning (9-12),Haircut + Beard,47,5,Walk-in
+2026-08-07,Friday,Morning (9-12),Haircut,30,5,Walk-in
+2026-08-07,Friday,Morning (9-12),Haircut,39,6,Appointment
+2026-08-07,Friday,Morning (9-12),Haircut,28,8,Walk-in
+2026-08-07,Friday,Evening (4-7),Colour/Chemical,50,8,Walk-in
+2026-08-07,Friday,Morning (9-12),Haircut,29,12,Walk-in
+2026-08-07,Friday,Morning (9-12),Kids Cut,23,5,Appointment
+2026-08-07,Friday,Morning (9-12),Beard Trim,19,4,Appointment
+2026-08-07,Friday,Afternoon (12-4),Haircut,34,11,Appointment
+2026-08-07,Friday,Evening (4-7),Haircut,31,13,Appointment
+2026-08-07,Friday,Evening (4-7),Shave,22,2,Walk-in
+2026-08-07,Friday,Afternoon (12-4),Haircut,31,6,Walk-in
+2026-08-07,Friday,Afternoon (12-4),Haircut + Beard,52,5,Appointment
+2026-08-08,Saturday,Evening (4-7),Haircut,31,11,Walk-in
+2026-08-08,Saturday,Morning (9-12),Haircut + Beard,55,2,Walk-in
+2026-08-08,Saturday,Afternoon (12-4),Shave,24,10,Appointment
+2026-08-08,Saturday,Evening (4-7),Haircut + Beard,41,9,Appointment
+2026-08-08,Saturday,Morning (9-12),Shave,23,6,Walk-in
+2026-08-08,Saturday,Evening (4-7),Haircut + Beard,47,10,Walk-in
+2026-08-08,Saturday,Evening (4-7),Shave,23,14,Appointment
+2026-08-08,Saturday,Afternoon (12-4),Haircut,28,7,Walk-in
+2026-08-08,Saturday,Evening (4-7),Haircut + Beard,29,7,Walk-in
+2026-08-08,Saturday,Evening (4-7),Shave,21,11,Walk-in
+2026-08-08,Saturday,Morning (9-12),Haircut + Beard,45,10,Walk-in
+2026-08-08,Saturday,Evening (4-7),Haircut,24,10,Appointment
+2026-08-08,Saturday,Afternoon (12-4),Kids Cut,20,7,Appointment
+2026-08-08,Saturday,Morning (9-12),Beard Trim,15,7,Appointment
+2026-08-09,Sunday,Morning (9-12),Haircut + Beard,47,7,Appointment
+2026-08-09,Sunday,Afternoon (12-4),Beard Trim,16,0,Walk-in
+2026-08-09,Sunday,Morning (9-12),Haircut,34,8,Walk-in
+2026-08-09,Sunday,Evening (4-7),Haircut,24,17,Appointment
+2026-08-09,Sunday,Morning (9-12),Haircut,22,6,Appointment
+2026-08-09,Sunday,Morning (9-12),Beard Trim,19,1,Appointment
+2026-08-09,Sunday,Evening (4-7),Haircut,26,10,Walk-in
+2026-08-09,Sunday,Morning (9-12),Haircut + Beard,41,7,Walk-in
+2026-08-09,Sunday,Morning (9-12),Shave,24,4,Walk-in
+2026-08-11,Tuesday,Evening (4-7),Colour/Chemical,64,15,Walk-in
+2026-08-11,Tuesday,Afternoon (12-4),Colour/Chemical,63,4,Walk-in
+2026-08-11,Tuesday,Afternoon (12-4),Haircut,31,9,Appointment
+2026-08-11,Tuesday,Morning (9-12),Beard Trim,15,5,Walk-in
+2026-08-11,Tuesday,Evening (4-7),Beard Trim,21,11,Appointment
+2026-08-11,Tuesday,Evening (4-7),Haircut,30,8,Appointment
+2026-08-11,Tuesday,Afternoon (12-4),Haircut,21,9,Appointment
+2026-08-12,Wednesday,Afternoon (12-4),Beard Trim,12,5,Walk-in
+2026-08-12,Wednesday,Afternoon (12-4),Shave,23,13,Walk-in
+2026-08-12,Wednesday,Morning (9-12),Haircut,30,10,Walk-in
+2026-08-12,Wednesday,Afternoon (12-4),Haircut,44,7,Walk-in
+2026-08-12,Wednesday,Evening (4-7),Haircut + Beard,55,8,Appointment
+2026-08-12,Wednesday,Evening (4-7),Haircut,34,14,Appointment
+2026-08-12,Wednesday,Afternoon (12-4),Haircut,24,7,Walk-in
+2026-08-12,Wednesday,Evening (4-7),Colour/Chemical,62,7,Appointment
+2026-08-13,Thursday,Afternoon (12-4),Haircut,24,7,Appointment
+2026-08-13,Thursday,Evening (4-7),Beard Trim,20,1,Walk-in
+2026-08-13,Thursday,Morning (9-12),Haircut,33,12,Appointment
+2026-08-13,Thursday,Morning (9-12),Colour/Chemical,77,4,Walk-in
+2026-08-13,Thursday,Evening (4-7),Kids Cut,24,7,Appointment
+2026-08-13,Thursday,Afternoon (12-4),Beard Trim,18,5,Appointment
+2026-08-13,Thursday,Morning (9-12),Haircut,30,5,Walk-in
+2026-08-13,Thursday,Afternoon (12-4),Colour/Chemical,59,7,Appointment
+2026-08-14,Friday,Afternoon (12-4),Haircut,26,8,Appointment
+2026-08-14,Friday,Morning (9-12),Beard Trim,17,5,Walk-in
+2026-08-14,Friday,Afternoon (12-4),Haircut,34,6,Walk-in
+2026-08-14,Friday,Evening (4-7),Beard Trim,15,2,Appointment
+2026-08-14,Friday,Evening (4-7),Haircut,24,16,Walk-in
+2026-08-14,Friday,Evening (4-7),Haircut + Beard,57,9,Appointment
+2026-08-14,Friday,Evening (4-7),Haircut + Beard,46,5,Appointment
+2026-08-14,Friday,Afternoon (12-4),Shave,22,0,Appointment
+2026-08-14,Friday,Evening (4-7),Haircut + Beard,43,4,Walk-in
+2026-08-14,Friday,Morning (9-12),Haircut,37,9,Appointment
+2026-08-14,Friday,Evening (4-7),Haircut + Beard,42,3,Walk-in
+2026-08-15,Saturday,Afternoon (12-4),Beard Trim,12,6,Walk-in
+2026-08-15,Saturday,Afternoon (12-4),Haircut,33,8,Appointment
+2026-08-15,Saturday,Morning (9-12),Haircut + Beard,53,6,Walk-in
+2026-08-15,Saturday,Afternoon (12-4),Haircut + Beard,46,2,Appointment
+2026-08-15,Saturday,Morning (9-12),Haircut,30,12,Walk-in
+2026-08-15,Saturday,Afternoon (12-4),Haircut,33,8,Appointment
+2026-08-15,Saturday,Afternoon (12-4),Haircut + Beard,43,11,Walk-in
+2026-08-15,Saturday,Afternoon (12-4),Haircut,32,6,Appointment
+2026-08-15,Saturday,Evening (4-7),Haircut,22,10,Appointment
+2026-08-15,Saturday,Afternoon (12-4),Haircut,33,15,Walk-in
+2026-08-15,Saturday,Afternoon (12-4),Haircut,19,6,Walk-in
+2026-08-15,Saturday,Evening (4-7),Beard Trim,18,5,Walk-in
+2026-08-16,Sunday,Morning (9-12),Haircut,36,5,Walk-in
+2026-08-16,Sunday,Afternoon (12-4),Haircut,28,8,Walk-in
+2026-08-16,Sunday,Morning (9-12),Haircut,21,11,Walk-in
+2026-08-16,Sunday,Morning (9-12),Haircut + Beard,45,8,Walk-in
+2026-08-16,Sunday,Evening (4-7),Haircut,37,6,Appointment
+2026-08-16,Sunday,Morning (9-12),Haircut,27,2,Walk-in
+2026-08-16,Sunday,Evening (4-7),Beard Trim,13,14,Appointment
+2026-08-16,Sunday,Afternoon (12-4),Haircut,30,4,Appointment
+2026-08-16,Sunday,Afternoon (12-4),Haircut,39,11,Walk-in
+2026-08-16,Sunday,Afternoon (12-4),Haircut,34,4,Appointment
+2026-08-16,Sunday,Afternoon (12-4),Haircut,27,9,Walk-in
+2026-08-18,Tuesday,Evening (4-7),Haircut,28,4,Appointment
+2026-08-18,Tuesday,Afternoon (12-4),Haircut,32,8,Appointment
+2026-08-18,Tuesday,Afternoon (12-4),Haircut,43,0,Walk-in
+2026-08-18,Tuesday,Morning (9-12),Haircut,33,7,Walk-in
+2026-08-18,Tuesday,Afternoon (12-4),Haircut,21,3,Appointment
+2026-08-18,Tuesday,Afternoon (12-4),Haircut,26,5,Walk-in
+2026-08-18,Tuesday,Morning (9-12),Haircut,32,5,Appointment
+2026-08-18,Tuesday,Evening (4-7),Kids Cut,26,9,Walk-in
+2026-08-19,Wednesday,Evening (4-7),Beard Trim,13,13,Appointment
+2026-08-19,Wednesday,Morning (9-12),Beard Trim,15,0,Appointment
+2026-08-19,Wednesday,Afternoon (12-4),Haircut,39,2,Appointment
+2026-08-19,Wednesday,Afternoon (12-4),Beard Trim,15,3,Walk-in
+2026-08-19,Wednesday,Evening (4-7),Haircut,33,2,Appointment
+2026-08-19,Wednesday,Evening (4-7),Haircut,30,7,Walk-in
+2026-08-19,Wednesday,Afternoon (12-4),Haircut,27,0,Appointment
+2026-08-19,Wednesday,Afternoon (12-4),Beard Trim,15,4,Walk-in
+2026-08-20,Thursday,Morning (9-12),Haircut,30,5,Appointment
+2026-08-20,Thursday,Evening (4-7),Haircut,27,13,Walk-in
+2026-08-20,Thursday,Afternoon (12-4),Beard Trim,17,6,Appointment
+2026-08-20,Thursday,Morning (9-12),Haircut,35,2,Walk-in
+2026-08-20,Thursday,Afternoon (12-4),Beard Trim,13,9,Appointment
+2026-08-20,Thursday,Evening (4-7),Haircut,30,7,Walk-in
+2026-08-20,Thursday,Evening (4-7),Haircut,27,7,Appointment
+2026-08-20,Thursday,Morning (9-12),Beard Trim,15,12,Walk-in
+2026-08-20,Thursday,Evening (4-7),Haircut + Beard,51,4,Appointment
+2026-08-20,Thursday,Morning (9-12),Haircut + Beard,47,4,Walk-in
+2026-08-21,Friday,Afternoon (12-4),Haircut + Beard,48,9,Appointment
+2026-08-21,Friday,Afternoon (12-4),Haircut,32,7,Walk-in
+2026-08-21,Friday,Evening (4-7),Beard Trim,13,7,Appointment
+2026-08-21,Friday,Evening (4-7),Colour/Chemical,56,7,Walk-in
+2026-08-21,Friday,Morning (9-12),Beard Trim,17,2,Appointment
+2026-08-21,Friday,Afternoon (12-4),Shave,18,12,Walk-in
+2026-08-21,Friday,Evening (4-7),Haircut,25,6,Walk-in
+2026-08-21,Friday,Evening (4-7),Beard Trim,14,5,Appointment
+2026-08-21,Friday,Afternoon (12-4),Haircut,22,7,Walk-in
+2026-08-21,Friday,Morning (9-12),Haircut,27,3,Walk-in
+2026-08-21,Friday,Evening (4-7),Haircut,30,1,Appointment
+2026-08-22,Saturday,Morning (9-12),Haircut + Beard,53,4,Appointment
+2026-08-22,Saturday,Morning (9-12),Haircut,19,8,Appointment
+2026-08-22,Saturday,Morning (9-12),Haircut,25,8,Appointment
+2026-08-22,Saturday,Morning (9-12),Shave,20,0,Appointment
+2026-08-22,Saturday,Afternoon (12-4),Haircut,28,10,Appointment
+2026-08-22,Saturday,Morning (9-12),Haircut,30,4,Walk-in
+2026-08-22,Saturday,Morning (9-12),Beard Trim,12,15,Appointment
+2026-08-22,Saturday,Evening (4-7),Haircut,32,9,Walk-in
+2026-08-22,Saturday,Afternoon (12-4),Beard Trim,15,11,Appointment
+2026-08-22,Saturday,Afternoon (12-4),Haircut + Beard,51,3,Walk-in
+2026-08-22,Saturday,Evening (4-7),Haircut,26,7,Appointment
+2026-08-22,Saturday,Morning (9-12),Haircut,30,8,Appointment
+2026-08-22,Saturday,Afternoon (12-4),Haircut,19,14,Appointment
+2026-08-22,Saturday,Morning (9-12),Shave,15,0,Walk-in
+2026-08-23,Sunday,Evening (4-7),Haircut,26,10,Appointment
+2026-08-23,Sunday,Morning (9-12),Haircut,23,2,Walk-in
+2026-08-23,Sunday,Morning (9-12),Beard Trim,16,11,Appointment
+2026-08-23,Sunday,Afternoon (12-4),Haircut,25,3,Walk-in
+2026-08-23,Sunday,Morning (9-12),Haircut,48,10,Walk-in
+2026-08-23,Sunday,Afternoon (12-4),Kids Cut,28,1,Walk-in
+2026-08-23,Sunday,Morning (9-12),Haircut + Beard,47,7,Walk-in
+2026-08-23,Sunday,Afternoon (12-4),Haircut,32,2,Walk-in
+2026-08-23,Sunday,Afternoon (12-4),Haircut + Beard,41,9,Appointment
+2026-08-23,Sunday,Afternoon (12-4),Haircut,37,9,Appointment
+2026-08-23,Sunday,Afternoon (12-4),Haircut,31,1,Appointment
+2026-08-25,Tuesday,Evening (4-7),Haircut,40,7,Walk-in
+2026-08-25,Tuesday,Evening (4-7),Haircut,34,4,Walk-in
+2026-08-25,Tuesday,Morning (9-12),Beard Trim,12,0,Walk-in
+2026-08-25,Tuesday,Evening (4-7),Haircut,27,7,Walk-in
+2026-08-25,Tuesday,Afternoon (12-4),Kids Cut,28,8,Appointment
+2026-08-25,Tuesday,Evening (4-7),Haircut,38,13,Appointment
+2026-08-25,Tuesday,Afternoon (12-4),Haircut,34,4,Appointment
+2026-08-26,Wednesday,Evening (4-7),Kids Cut,20,1,Appointment
+2026-08-26,Wednesday,Evening (4-7),Haircut,24,8,Walk-in
+2026-08-26,Wednesday,Evening (4-7),Haircut,28,8,Appointment
+2026-08-26,Wednesday,Evening (4-7),Haircut,36,2,Appointment
+2026-08-26,Wednesday,Evening (4-7),Haircut,26,9,Appointment
+2026-08-26,Wednesday,Evening (4-7),Haircut + Beard,43,9,Walk-in
+2026-08-26,Wednesday,Afternoon (12-4),Beard Trim,15,6,Appointment
+2026-08-26,Wednesday,Afternoon (12-4),Beard Trim,12,1,Appointment
+2026-08-26,Wednesday,Evening (4-7),Haircut,34,8,Walk-in
+2026-08-27,Thursday,Afternoon (12-4),Haircut + Beard,48,6,Appointment
+2026-08-27,Thursday,Afternoon (12-4),Haircut + Beard,55,9,Appointment
+2026-08-27,Thursday,Evening (4-7),Shave,21,7,Appointment
+2026-08-27,Thursday,Evening (4-7),Haircut,36,12,Walk-in
+2026-08-27,Thursday,Evening (4-7),Shave,18,2,Walk-in
+2026-08-27,Thursday,Evening (4-7),Haircut + Beard,45,10,Appointment
+2026-08-27,Thursday,Evening (4-7),Beard Trim,15,16,Walk-in
+2026-08-27,Thursday,Evening (4-7),Haircut + Beard,46,10,Walk-in
+2026-08-27,Thursday,Afternoon (12-4),Haircut + Beard,44,9,Walk-in
+2026-08-28,Friday,Morning (9-12),Beard Trim,14,3,Appointment
+2026-08-28,Friday,Afternoon (12-4),Haircut + Beard,47,5,Appointment
+2026-08-28,Friday,Evening (4-7),Haircut,31,4,Appointment
+2026-08-28,Friday,Evening (4-7),Haircut,30,3,Walk-in
+2026-08-28,Friday,Evening (4-7),Haircut,31,4,Appointment
+2026-08-28,Friday,Evening (4-7),Haircut + Beard,42,4,Walk-in
+2026-08-28,Friday,Morning (9-12),Haircut,26,3,Appointment
+2026-08-28,Friday,Evening (4-7),Haircut,31,12,Walk-in
+2026-08-28,Friday,Morning (9-12),Haircut,33,7,Walk-in
+2026-08-28,Friday,Evening (4-7),Haircut + Beard,48,11,Walk-in
+2026-08-28,Friday,Morning (9-12),Kids Cut,25,7,Walk-in
+2026-08-28,Friday,Evening (4-7),Kids Cut,26,3,Walk-in
+2026-08-29,Saturday,Morning (9-12),Shave,23,3,Appointment
+2026-08-29,Saturday,Afternoon (12-4),Beard Trim,14,7,Walk-in
+2026-08-29,Saturday,Morning (9-12),Haircut,31,8,Appointment
+2026-08-29,Saturday,Morning (9-12),Haircut + Beard,43,4,Walk-in
+2026-08-29,Saturday,Afternoon (12-4),Haircut + Beard,41,4,Appointment
+2026-08-29,Saturday,Afternoon (12-4),Haircut,20,0,Appointment
+2026-08-29,Saturday,Afternoon (12-4),Beard Trim,13,10,Appointment
+2026-08-29,Saturday,Morning (9-12),Haircut + Beard,55,17,Walk-in
+2026-08-29,Saturday,Afternoon (12-4),Haircut,38,2,Appointment
+2026-08-29,Saturday,Morning (9-12),Haircut,26,2,Appointment
+2026-08-29,Saturday,Evening (4-7),Colour/Chemical,54,16,Appointment
+2026-08-29,Saturday,Morning (9-12),Beard Trim,17,13,Appointment
+2026-08-30,Sunday,Evening (4-7),Haircut + Beard,39,15,Walk-in
+2026-08-30,Sunday,Morning (9-12),Kids Cut,21,2,Appointment
+2026-08-30,Sunday,Evening (4-7),Beard Trim,17,4,Appointment
+2026-08-30,Sunday,Afternoon (12-4),Haircut + Beard,40,6,Walk-in
+2026-08-30,Sunday,Afternoon (12-4),Haircut,32,6,Walk-in
+2026-08-30,Sunday,Morning (9-12),Kids Cut,24,8,Walk-in
+2026-08-30,Sunday,Morning (9-12),Haircut + Beard,38,2,Appointment
+2026-08-30,Sunday,Morning (9-12),Haircut + Beard,37,11,Appointment
+2026-08-30,Sunday,Evening (4-7),Haircut,37,3,Appointment
